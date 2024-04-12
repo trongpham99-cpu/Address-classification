@@ -46,7 +46,7 @@ Hà Quảng
 Trùng Khánh
 Hạ Lang
 Quảng Hòa
-Hoà An
+Hòa An
 Nguyên Bình
 Thạch An
 Thành Phố Bắc Kạn
@@ -168,7 +168,7 @@ Hiệp Hòa
 Việt Trì
 Phú Thọ
 Đoan Hùng
-Hạ Hoà
+Hạ Hòa
 Thanh Ba
 Phù Ninh
 Yên Lập
@@ -293,7 +293,7 @@ Quảng Xương
 Nghi Sơn
 Vinh
 Cửa Lò
-Thái Hoà
+Thái Hòa
 Quế Phong
 Quỳ Châu
 Kỳ Sơn
@@ -402,14 +402,14 @@ Phù Cát
 An Nhơn
 Tuy Phước
 Vân Canh
-Tuy Hoà
+Tuy Hòa
 Sông Cầu
 Đồng Xuân
 Tuy An
 Sơn Hòa
 Sông Hinh
-Tây Hoà
-Phú Hoà
+Tây Hòa
+Phú Hòa
 Đông Hòa
 Nha Trang
 Cam Ranh
@@ -693,7 +693,7 @@ Phước Long
 Vĩnh Lợi
 Giá Rai
 Đông Hải
-Hoà Bình
+Hòa Bình
 Cà Mau
 U Minh
 Thới Bình
